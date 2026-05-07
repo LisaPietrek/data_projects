@@ -5,7 +5,7 @@
 # 2) To enable the newly created environment, run the command:
 #       conda activate environment
 
-name: data-projectss
+name: data-projects
 channels:
   - conda-forge
 dependencies:
@@ -19,3 +19,5 @@ dependencies:
   - jupyterlab=4.0
   - jupyter-server-proxy
   - pip
+  - pip:
+    - kagglehub
