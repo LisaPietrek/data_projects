@@ -1,5 +1,6 @@
 raw_trial_data*
 *.notes
+*.DS-store
 
 # jupyter
 *.ipynb_checkpoints
